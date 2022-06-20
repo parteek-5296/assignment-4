@@ -1,6 +1,6 @@
 #Assignment 4
-#Name: Yuvraj Singh
-#SID: 21102071
+#Name: Parteek Badwal
+#SID: 21102070
 #Branch: CIVIL
 print("Q1")
 
